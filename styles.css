@@ -9,6 +9,7 @@
     display: grid;
     grid-template-columns: 1fr;
     background-color: hsl(212, 45%, 89%);
+    overflow: hidden;
 }
 
 .img-text-wrapper {
